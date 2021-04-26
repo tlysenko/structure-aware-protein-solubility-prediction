@@ -1,1 +1,1 @@
-Structure-aware protein solubility prediction from sequence through graph convolutional network and predicted contact map basing on a great paper from [Jianwen Chen, Shuangjia Zheng, Huiying Zhao & Yuedong Yang](https://jcheminf.biomedcentral.com/articles/10.1186/s13321-021-00488-1).
+Structure-aware protein solubility prediction from sequence through graph convolutional network and predicted contact map basing on a great paper from Jianwen Chen, Shuangjia Zheng, Huiying Zhao & Yuedong Yang, https://jcheminf.biomedcentral.com/articles/10.1186/s13321-021-00488-1.
